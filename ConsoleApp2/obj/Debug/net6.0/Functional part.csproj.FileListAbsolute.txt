@@ -1,0 +1,24 @@
+C:\code_projects\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\Functional part.exe
+C:\code_projects\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\Functional part.deps.json
+C:\code_projects\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\Functional part.runtimeconfig.json
+C:\code_projects\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\Functional part.dll
+C:\code_projects\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\Functional part.pdb
+C:\code_projects\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ClosedXML.dll
+C:\code_projects\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\CsvHelper.dll
+C:\code_projects\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\DocumentFormat.OpenXml.dll
+C:\code_projects\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\ExcelNumberFormat.dll
+C:\code_projects\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\Irony.dll
+C:\code_projects\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\SixLabors.Fonts.dll
+C:\code_projects\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\System.IO.Packaging.dll
+C:\code_projects\ConsoleApp2\ConsoleApp2\bin\Debug\net6.0\XLParser.dll
+C:\code_projects\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Functional part.csproj.AssemblyReference.cache
+C:\code_projects\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Functional part.GeneratedMSBuildEditorConfig.editorconfig
+C:\code_projects\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Functional part.AssemblyInfoInputs.cache
+C:\code_projects\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Functional part.AssemblyInfo.cs
+C:\code_projects\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Functional part.csproj.CoreCompileInputs.cache
+C:\code_projects\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Functional part.csproj.CopyComplete
+C:\code_projects\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Functional part.dll
+C:\code_projects\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\refint\Functional part.dll
+C:\code_projects\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Functional part.pdb
+C:\code_projects\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\Functional part.genruntimeconfig.cache
+C:\code_projects\ConsoleApp2\ConsoleApp2\obj\Debug\net6.0\ref\Functional part.dll
